@@ -1,0 +1,110 @@
+body {
+    color: black;
+    font-family: Lalezar;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+a{
+    margin-right: 15px;
+}
+.menu {
+    margin-bottom: 30px;
+}
+a:active{
+    color: blue;
+}
+.terms {
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.hik {
+    text-align: right;
+}
+#hj {
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 150%;
+    padding-top: 30 px;
+}
+li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+footer {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 50%;
+    margin: 0;
+    padding: 10px 0;
+    width: 100%;
+    margin-top: 10px;
+}
+table , th , td {
+    text-align: center;
+    border: 1px solid;
+  }
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th , td {
+    padding: 15px;
+}
+
+
+.forosh {
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid;
+    border-radius: 10px;
+    font-family: Lalezar;
+    font-size: 15px;
+}
+.forosh:hover{
+    background-color: tomato;
+    color: white;
+    border-color: tomato;
+}
+.terms1{
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 350px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+tr:hover{
+    background-color: blue;
+    color: white;
+}

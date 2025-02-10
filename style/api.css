@@ -1,0 +1,47 @@
+body {
+    color: black;
+    font-family: Lalezar;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+
+
+}
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}
+a{
+    margin-right: 15px;
+}
+.menu {
+    margin-bottom: 30px;
+}
+a:active{
+    color: blue;
+}
+footer {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    font-size: 50%;
+    margin: 0;
+    padding: 10px 0;
+    width: 100%;
+    margin-top: 10px;
+}
+.imgapi{
+    width: 650px;
+    height: 500px;
+}
+#kog{
+    margin-bottom: 50px;
+}
